@@ -1,4 +1,4 @@
-# ContinuosIntegration-ContinuosDelivery-ContinuosDeployment
+# Continuos Integration - Continuos Delivery - Continuos Deployment
 What are the differences between continuous integration, continuous delivery, and continuous deployment?
 
 ## Continuous integration
